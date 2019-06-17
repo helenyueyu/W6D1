@@ -1,0 +1,11 @@
+/* PHASE 7: Online */
+
+.ribbon {
+  color:white; 
+  transform:  translate(-20px, 10px) rotate(315deg) skewX(-30deg);
+  background-color: lime;
+  position: absolute; 
+  padding-left: 15px; 
+  padding-right: 15px; 
+  z-index: 0; 
+}
